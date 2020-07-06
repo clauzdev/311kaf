@@ -1,9 +1,9 @@
 .swiper-container {
     height: 350 px
-    .swiper-slide {
+    /*.swiper-slide {
         background:#fff;
         display: flex;
         justify-content: center;
         align-items: center;
-    }
+    }*/
 }
