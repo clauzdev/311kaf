@@ -25836,5 +25836,5 @@ footer,header{
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='darken(@text2, 5%)', endColorstr='darken(@text2, 10%)', GradientType=0)
 }
  .endimg img {
-     width: 500;
+     width: 500px;
 }
