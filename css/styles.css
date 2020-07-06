@@ -1,20 +1,13 @@
 .swiper-container {
     height: auto;
-    /*.swiper-slide {
-        background:#fff;
+    /**/
+}
+
+.swiper-slide {
         display: flex;
         justify-content: center;
         align-items: center;
-    }*/
-}
-
-.swiper-button-prev {
-    color: white;
-}
-
-.swiper-button-next {
-    color: white;
-}
+    }
 
 .swiper-pagination {
     color: white;
