@@ -25837,3 +25837,6 @@ footer,header{
 #body .endimg img {
      width: 500px;
 }
+.contactsend {
+    display: flex;
+}
